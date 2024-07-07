@@ -25,7 +25,7 @@ Sensitive information such as API keys and database credentials is stored in the
 ```properties
 # API Keys
 vindecoder.api.key=INVALID_API_KEY
-vindecoder.api.url=https://api.vindecoder.eu/3.2/d52a05f4fc2c/3da8c28385
+vindecoder.secret.key=INVALID_SECRET_KEY
 
 chatgpt.api.key=INVALID_CHATGPT_API_KEY
 chatgpt.api.url=https://api.openai.com
